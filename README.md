@@ -1,4 +1,4 @@
-# Web Development 1 at highline college
+# Web Development I
 No Object Oriented Programming, no IDE, no localhost
 
 ## HTML, CSS, PHP
