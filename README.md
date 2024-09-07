@@ -1,5 +1,5 @@
 # Web Development I
-No Object Oriented Programming, no IDE, no localhost
+Less than 10 lines of Javascript, and no IDE
 
 ## HTML, CSS, PHP
 Made with only semantic ***HTML5***, vanilla ***CSS3***, and ***PHP*** to make the header and footer less redundant
